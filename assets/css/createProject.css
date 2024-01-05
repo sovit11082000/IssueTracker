@@ -1,0 +1,26 @@
+.createProjectSection {
+    color: black;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #771c57;
+    padding: 2rem 0;
+}
+
+.createProjectForm {
+    min-width: 500px;
+}
+
+#btn-createIssue{
+    color: black;
+    color: rgb(255, 255, 255);
+    background-color: #c1007a;
+    background-color: rgb(24, 22, 22);
+    border: none;
+    font-size: 1.2rem;
+    padding-top: 0.3rem;
+    font-weight: 500;
+    padding-bottom: 0.5rem;
+}
+
